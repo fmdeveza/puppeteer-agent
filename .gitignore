@@ -1,3 +1,7 @@
+*.code-workspace
+*.png
+profile
+
 # Logs
 logs
 *.log
